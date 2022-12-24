@@ -2,4 +2,3 @@
 
 [Author](author.md)
 
-## Conflict
